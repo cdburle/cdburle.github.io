@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/tmarks/Sites/blog",
+	"sourceRoot": "/opt/buildhome/repo",
 	"sources": [
 		"themes/hugo-swift-theme/assets/main.scss",
 		"themes/hugo-swift-theme/assets/_fonts.scss",
