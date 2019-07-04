@@ -168,49 +168,73 @@
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/categories/bigfoot/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://cdburle.github.io/about/</loc>
+    <lastmod>2019-06-22T06:47:29-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://cdburle.github.io/post/firstpost/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/categories/genealogy/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
+    <loc>https://cdburle.github.io/categories/family/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/tags/missing-411/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
+    <loc>https://cdburle.github.io/categories/science/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/tags/bigfoot/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
+    <loc>https://cdburle.github.io/categories/tourism/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/tags/sasquatch/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
+    <loc>https://cdburle.github.io/tags/bugs/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/tags/skunk-ape/</loc>
-    <lastmod>2019-06-22T13:47:29+00:00</lastmod>
+    <loc>https://cdburle.github.io/tags/fossils/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/about/</loc>
-    <lastmod>2019-06-22T06:47:29-05:00</lastmod>
+    <loc>https://cdburle.github.io/tags/friends/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdburle.github.io/tags/natural-history/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdburle.github.io/tags/paleontology/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdburle.github.io/tags/planets/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdburle.github.io/tags/stars/</loc>
+    <lastmod>2019-06-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
