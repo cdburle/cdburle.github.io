@@ -20,13 +20,25 @@
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/categories/</loc>
-    <lastmod>2019-06-22T10:47:29-05:00</lastmod>
+    <loc>https://cdburle.github.io/tags/</loc>
+    <lastmod>2019-07-05T18:47:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cdburle.github.io/tags/</loc>
+    <loc>https://cdburle.github.io/tags/art-bell/</loc>
+    <lastmod>2019-07-05T18:47:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdburle.github.io/tags/ufology/</loc>
+    <lastmod>2019-07-05T18:47:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdburle.github.io/categories/</loc>
     <lastmod>2019-06-22T10:47:29-05:00</lastmod>
     <priority>0</priority>
   </url>
